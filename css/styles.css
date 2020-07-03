@@ -1,0 +1,116 @@
+
+
+
+
+
+/* navigation section */
+.brand-nav {
+  background-color: #7C3C21;
+  padding: 40px 35px 25px 25px;
+}
+.brand-name {
+  color: #F9C49A;
+  font-family: IBM Plex Serif;
+  font-size: 40px;
+}
+.info {
+  color: #E8E4E1;
+  font-family: EB Garamond;
+  font-size: 23px;
+  padding-left: 20px;
+}
+.info:hover {
+    color: #F9C49A;
+}
+
+/* first-container */
+.cover-container {
+  background-image: url(../images/bg-image.jpg);
+  background-size: cover;
+  height: 750px;
+  padding: 0;
+}
+.top-container {
+  height: 700px;
+  background-color: transparent;
+
+}
+.welcom {
+  color: #F9C49A;
+  font-size: 65px;
+font-family: 'Merriweather', serif;
+}
+.greet {
+  color: #E8E4E1;
+  padding-bottom: 40px;
+  font-family: 'Amiri', serif;
+}
+.press {
+  color: #E8E4E1;
+  font-family: EB Garamond;
+  font-size: 23px;
+}
+.press:hover {
+    color: #F9C49A;
+}
+
+
+
+
+
+
+
+/* gallery section */
+
+
+.card {
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+
+}
+img {
+  border-radius: 8px;
+}
+.gallery {
+  background-color: #EC823A;
+  padding: 50px 100px;
+  text-align: center;
+
+}
+.image-box {
+  padding: 0;
+
+}
+.heading {
+  padding: 10px 0;
+  font-family: 'Cormorant Garamond', serif;
+  color: #6f0000;
+  font-size: 150%;
+}
+/* }
+img {
+  border-radius: 10px;
+}
+.image-tag {
+
+object-fit: contain;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* footer section */
+
+.white-section {
+  background-color: #E8E4E1;
+  text-align: center;
+  padding: 50px;
+}
